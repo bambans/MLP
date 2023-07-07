@@ -1,0 +1,78 @@
+
+
+	MLP Hyperparameters
+--------------------------------------------
+	INPUT LAYER SIZE: 	63
+	HIDDEN LAYER SIZE: 	35
+	OUTPUT LAYER SIZE: 	7
+	MAXIMUM ERROR: 		0.0625
+	LEARNING RATE: 		0.01
+	MAXIMUM EPOCHS: 	100000
+--------------------------------------------
+
+<<<<<<<<<< caracteres-Fausett/caracteres-limpo.csv >>>>>>>>>>
+
+MLP training...
+
+- Epoque: 14879
+- Average Errors: 0.062497870277180886
+- Keep Training: False
+
+
+MLP testinng...
+
+Predicted:	['A' 'B' 'C' 'D' 'E' 'J' 'K' 'A' 'B' 'C' 'D' 'E' 'J' 'K' 'A' 'B' 'C' 'D' 'E' 'J' 'K']
+Expected:	['A' 'B' 'C' 'D' 'E' 'J' 'K' 'A' 'B' 'C' 'D' 'E' 'J' 'K' 'A' 'B' 'C' 'D' 'E' 'J' 'K']
+Evaluation:	[ True  True  True  True  True  True  True  True  True  True  True  True  True  True  True  True  True  True  True  True  True]
+Pass all:	True
+Confusion Matrix:
+None
+
+MLP running...
+
+Predited:	['A' 'B' 'C' 'D' 'E' 'J' 'K' 'A' 'B' 'C' 'D' 'E' 'J' 'K' 'A' 'B' 'C' 'D' 'E' 'J' 'K']
+
+<<<<<<<<<< caracteres-Fausett/caracteres-ruido.csv >>>>>>>>>>
+
+MLP training...
+
+- Epoque: 17034
+- Average Errors: 0.06249944622717386
+- Keep Training: False
+
+
+MLP testinng...
+
+Predicted:	['A' 'B' 'C' 'D' 'E' 'J' 'K' 'A' 'B' 'C' 'D' 'E' 'J' 'K' 'A' 'B' 'C' 'D' 'E' 'J' 'K']
+Expected:	['A' 'B' 'C' 'D' 'E' 'J' 'K' 'A' 'B' 'C' 'D' 'E' 'J' 'K' 'A' 'B' 'C' 'D' 'E' 'J' 'K']
+Evaluation:	[ True  True  True  True  True  True  True  True  True  True  True  True  True  True  True  True  True  True  True  True  True]
+Pass all:	True
+Confusion Matrix:
+None
+
+MLP running...
+
+Predited:	['A' 'B' 'C' 'D' 'E' 'J' 'K' 'A' 'B' 'C' 'D' 'E' 'J' 'K' 'A' 'B' 'C' 'D' 'E' 'J' 'K']
+
+<<<<<<<<<< caracteres-Fausett/caracteres-ruido20.csv >>>>>>>>>>
+
+MLP training...
+
+- Epoque: 14146
+- Average Errors: 0.062499628733650135
+- Keep Training: False
+
+
+MLP testinng...
+
+Predicted:	['A' 'B' 'C' 'D' 'E' 'J' 'K' 'A' 'B' 'C' 'D' 'E' 'J' 'K' 'A' 'B' 'C' 'D' 'E' 'J' 'K']
+Expected:	['A' 'B' 'C' 'D' 'E' 'J' 'K' 'A' 'B' 'C' 'D' 'E' 'J' 'K' 'A' 'B' 'C' 'D' 'E' 'J' 'K']
+Evaluation:	[ True  True  True  True  True  True  True  True  True  True  True  True  True  True  True  True  True  True  True  True  True]
+Pass all:	True
+Confusion Matrix:
+None
+
+MLP running...
+
+Predited:	['A' 'B' 'C' 'D' 'E' 'J' 'K' 'A' 'B' 'C' 'D' 'E' 'J' 'K' 'A' 'B' 'C' 'D' 'E' 'J' 'K']
+

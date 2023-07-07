@@ -1,0 +1,78 @@
+
+
+	MLP Hyperparameters
+--------------------------------------------
+	INPUT LAYER SIZE: 	2
+	HIDDEN LAYER SIZE: 	3
+	OUTPUT LAYER SIZE: 	1
+	MAXIMUM ERROR: 		0.012125
+	LEARNING RATE: 		0.005
+	MAXIMUM EPOCHS: 	100000
+--------------------------------------------
+
+<<<<<<<<<< portas_logicas/problemAND.csv >>>>>>>>>>
+
+MLP training...
+
+- Epoque: 100000
+- Average Errors: 0.02607012916078094
+- Keep Training: False
+
+
+MLP testinng...
+
+Predicted:	[False False False  True]
+Expected:	[False False False  True]
+Evaluation:	[ True  True  True  True]
+Pass all:	True
+Confusion Matrix:
+None
+
+MLP running...
+
+Predited:	[False False False  True]
+
+<<<<<<<<<< portas_logicas/problemOR.csv >>>>>>>>>>
+
+MLP training...
+
+- Epoque: 100000
+- Average Errors: 0.022748431284192388
+- Keep Training: False
+
+
+MLP testinng...
+
+Predicted:	[False  True  True  True]
+Expected:	[False  True  True  True]
+Evaluation:	[ True  True  True  True]
+Pass all:	True
+Confusion Matrix:
+None
+
+MLP running...
+
+Predited:	[False  True  True  True]
+
+<<<<<<<<<< portas_logicas/problemXOR.csv >>>>>>>>>>
+
+MLP training...
+
+- Epoque: 100000
+- Average Errors: 0.07138802263424533
+- Keep Training: False
+
+
+MLP testinng...
+
+Predicted:	[False  True  True False]
+Expected:	[False  True  True False]
+Evaluation:	[ True  True  True  True]
+Pass all:	True
+Confusion Matrix:
+None
+
+MLP running...
+
+Predited:	[False  True  True False]
+
