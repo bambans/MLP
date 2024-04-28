@@ -17,5 +17,5 @@ Implementação do MLP para o reconhecimento dos caracteres da Fausett e para a 
     - `make` to run MLP for both Character Recognition and Logic Ports;
     - `make char` to run MLP for Character Recognition;
     - `make logic` to run MLP for the Logic Ports problem;
-- After running, a file called `saida*.txt`, where `*` stands for "Caracteres" for the Character Recognition problem and "PortasLogicas" for Logic Ports problem.
-- After running, more specificly the tests, an image called `confusion_matrix_*.png`, in which `*` stands for the name of the input file.
+- After running, a file called `saida*.txt` will be generated, where `*` stands for "Caracteres" for the Character Recognition problem and "PortasLogicas" for Logic Ports problem.
+- After running, more specificly the tests, an image called `confusion_matrix_*.png` will be created, in which `*` stands for the name of the input file.
